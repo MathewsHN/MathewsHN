@@ -3,7 +3,7 @@
 </div>
 
  
-##  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="45px" height="45px"></img>Acerca de mi 
+##  Acerca de mi 
 
   <img align="right" top="40" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
   
